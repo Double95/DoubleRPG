@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1551447736 source:c:\users\karl\desktop\doublerpg\main.cpp
+	<iostream>
+	<string>
+	"menuCombattre.h"
+	"menuMagasin.h"
+	"Personnage.h"
+
+1551446516 c:\users\karl\desktop\doublerpg\menucombattre.h
+	<iostream>
+	"Personnage.h"
+	"combat.h"
+
+1551436691 c:\users\karl\desktop\doublerpg\menumagasin.h
+	<iostream>
+	"Personnage.h"
+
+1551449891 source:c:\users\karl\desktop\doublerpg\menucombattre.cpp
+	"menuCombattre.h"
+
+1551449710 source:c:\users\karl\desktop\doublerpg\menumagasin.cpp
+	"menuMagasin.h"
+
+1551448610 c:\users\karl\desktop\doublerpg\personnage.h
+	<string>
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"Arme.h"
+	"nbAleatoire.h"
+
+1551449710 source:c:\users\karl\desktop\doublerpg\personnage.cpp
+	"Personnage.h"
+
+1551446360 source:c:\users\karl\desktop\doublerpg\nbaleatoire.cpp
+	"nbAleatoire.h"
+
+1551445590 c:\users\karl\desktop\doublerpg\nbaleatoire.h
+	<ctime>
+	<cstdlib>
+
+1551445953 c:\users\karl\desktop\doublerpg\arme.h
+	<string>
+	<iostream>
+
+1551445953 source:c:\users\karl\desktop\doublerpg\arme.cpp
+	"Arme.h"
+
+1551449891 source:c:\users\karl\desktop\doublerpg\combat.cpp
+	"combat.h"
+
+1551448294 c:\users\karl\desktop\doublerpg\combat.h
+	<iostream>
+	"Personnage.h"
+	"nbAleatoire.h"
+
